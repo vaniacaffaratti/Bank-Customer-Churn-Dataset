@@ -54,3 +54,9 @@ ver2
 df[df['credit_score'] == 0].shape[0]
 
 df[df['balance'] == 0].shape[0]
+
+
+
+
+
+
